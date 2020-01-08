@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Totogaming" verbose="1">
+	<test name="Home Page">
+		<classes>
+			<class name="am.totogaming.registration.TotogamingRegistrationTest">
+				<methods>
+					<!--  <include name="myClassTotoTest" />-->
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
